@@ -20,7 +20,7 @@
  *
  * Plugin Name: Groups Role Registration
  * Plugin URI: http://www.itthinx.com/plugins/groups
- * Description: A simple implementation that adds a user to a group based on role.
+ * Description: A simple implementation that adds a user to a group based on role, a group named after the role is created automatically if needed.
  * Version: 1.0.0
  * Author: itthinx
  * Author URI: http://www.itthinx.com
